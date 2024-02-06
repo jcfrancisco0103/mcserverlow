@@ -1,2 +1,2 @@
-java -Xmx1G -jar server.jar nogui
-PAUSE
+java -Xmx1024m -Xmx1024m -jar server.jar nogui
+
